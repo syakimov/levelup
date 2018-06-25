@@ -1,0 +1,68 @@
+Procedure
+  hackerrank challenge
+  30 Skype interview - soft skills
+  a day at the assessment center
+    group challenge,
+    technical interview
+    another behavior interview.
+
+  Skype interview
+* Tell me about a time when...
+* 4 x tell me about a time you failed
+    Tell me what was the biggest bug you shipped and what it meant for the user and the company. What were the learning you took away from the situation?
+* tell me about the negative example when you worked in a team.
+* We are working in different technologies. How can you maintain your knowledge?
+* Tell me a time when you had a conflict in the team.
+* Tell me a time when you did something that had a big impact.
+* Tell me a time when you had to take responsability of someone else mistake  
+* Tell me about a time you supported someone?
+* What sources do you read? Tell me two books you recently read?
+* What is your motivation for applying to skyscanner?
+* 2 x How would you explain your work to somebody who isn't an engineer?
+* attitude, ambitions, skills, education, interests, previous projects, and place in Skyscanner.
+* When did you take risk?
+* Which has been your most complex project
+* How do you handle differing opinions?
+* How have you contributed positively to a workplace before?
+* My familiarity with agile methodology
+* Explain difficult situations around your current position / reaction
+* Tell me a time when you made use of data to make a decision.
+* Tell me a time when you had to persuade a group of people.
+
+  Technical Problems
+ 1. Implement an algorithm to find the cheapest seat combination for N people given a 2D matrix of airplane seats.
+    The first question was: Given a file containing the description of seats on a plane, implement an algorithm that finds the cheapest N consecutive seats on the same row. The input file give the position of each seat, wether they are already taken and the price of the seat. Additionally, the value of N is provided. 
+ 2. Create a project of Skyscanner rating system, and present our solution including UI, technical and more broad evaluations.
+ 3. 50 minute technical interview was concentrating on a technical implementation and structure of a car hiring data model. It did not require any specific deep technical knowledge, but rather intuition of a data model structure.
+ 4. Desing a Skyscanner rating system. Why do I want to work for Skyscanner?
+ 5. Implement a method that determines the index in a string at which, if that character is removed, results in the string being a palindrome. Asked to solve in O(n) complexity.
+ 6. Design, and explain how a twitter clone will work, also think about your design, how will respond with high load.
+ 7. Whiteboard - How would you build an instagram for travelling?
+ 8. Whiteboard - Tell me the whole process that happens after entering a URL in the browser to seeing the website rendered. Are servers hit directly?
+ 9. Whiteboard - draw and describe the system that you worked on in the past and you are proud of it / think it is interesting.
+10. Whiteboard - design simplified photo sharing system.
+11. Whiteboard - design price change user notification system.
+12. End to end application with little focus on subsystems. Systems integrator
+13. Design an end to end system for collecting flight feeds
+14. How do you defend skyscanner website or API against bots?
+15. Whiteboard - Design a service like Shazam
+16. Whiteboard - Design a social media platform based around travel.
+17. Whiteboard - Design a picture-sharing app.
+17. Finding a gap on an aeroplane for x tickets.
+18. Whiteboard - Parse one hotel's data from multiple sources with conflicting data.
+19. Describe several method which you could use to increase the speed/efficiency of a slow running SQL query
+20. Design patterns, Test driven development,
+21. I was asked to design a website, not only on the server side level but also on infrastructure and devops level
+22. Whiteboard - How does autocomplete search work?
+23. Whiteboard - Discuss how you would implement a search engine which suggests searches using what you've already entered.
+24. Whiteboard - Describe how you would implement the suggestive search feature Google offers
+25. Whiteboard - Design a review system to be added to the booking system.
+
+Find the lowest common ancestor in a binary search tree.
+  https://www.geeksforgeeks.org/lowest-common-ancestor-in-a-binary-search-tree/
+
+Research about the company
+1. Read a lot about skyscanner, (they are making this for rejecting candidates)
+2. Recollect all about your past experiences (tough for 10+ guys as it was for me),
+   and prepare to make nice user/technical stories about it. They focus too much
+   on your past challenges than what you are now.

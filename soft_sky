@@ -1,0 +1,125 @@
+  Skype interview
+
+* you failed
+    a task to upgrade the library to next version
+    I read the new documentation and and I made a research in the code base
+    I made ammendments where needed.
+    My mistake was that I did not tested the solution. I was confident I needed just to
+    replace text. What I forgot to do is upgrade the lib version in the configuration.
+    This was missed at the code review as well and on deploy it resulted in downtime.
+    Since it is supposed to be a HA trading platform this might have caused big issues,
+    luckily it was not the case. Now I always test no mather of the scope of the change.
+
+* tell me about the negative example when you worked in a team.
+    one of our team memebers didn't want to go to lunch with us and we are a small team
+
+* We are working in different technologies. How can you maintain your knowledge?
+    I try to abstract the basic shortcuts and comands. I am using a special editor to do that
+    so no matter which technology I use when I want to run some test I just hit space-t.
+    I make cheatsheats which I save in git so no matter if I am on different computer I can
+    see what I need.
+
+* Tell me a time when you had a conflict in the team.
+    We had a service which was buggy and we couldn't fix it with months. One Monday the architect
+    of the project came to work and said he rewrote it in different technology in the weekend
+    One my teammebers was very upset he did not asked talked about this. We had a long discussion
+    and I took the architect side. Finally we get along with the new version but at a time it was
+    the whole team arguing about which is the best decision in this moment.
+
+* Tell me a time when you did something that had a big impact.
+    I had to integrate a new payment provider for different region and this was critical,
+    since it meaned business revenew. It had to be done as soon as possible.
+
+* Tell me a time when you had to take responsability of someone else mistake  
+    Before one of my colleagues left he made a massive refactoring we were postponing for some time.
+    He wanted to see this done because it was always put on low priority. After that we had some bugs
+    I had to fix, this was of course on our staging environment but I could have missed something.
+
+* Tell me about a time you supported someone?
+    Once I was in a team of two when my other colleague was junior to me and I spend some time helping
+    him with the domain and the technologies.
+
+* What sources do you read? Tell me two books you recently read?
+    Lastly I red a book about VIM and The Go programming language
+
+* What is your motivation for applying to skyscanner?
+    I have been on some tech talks I like the fact that you are keen on cutting edge technologies
+    I liked the people and the atmosphere
+
+* 2 x How would you explain your work to somebody who isn't an engineer?
+    I try to skip unnesesarry details. What I do is I try to describe the big picture with basic
+    tech terminology. I the person have some difficulties with the terminology I explain it as well.
+
+* attitude, ambitions, skills, education, interests, previous projects, and place in Skyscanner.
+
+* When did you take risk?
+    We needed to deploy a feature fast and we have thought about 95% of the cases and we knew there
+    is a way to 
+
+* Which has been your most complex project
+    I had to make a mock of our backend system for development purposes. This ment knowning the logic
+    behind he MT4 server and reproducing it.
+
+* How do you handle differing opinions?
+    I listen to them and try to see if they are based on previous experience or different sources
+    of research. If they are based on previous exp I am think if this is applicable in this
+    particular context. If it is research I check the sources and validate them. If the person
+    could not make clear arument of his oppinion I use my intuition about the current problem
+    and the personality of my peer.
+
+* How have you contributed positively to a workplace before?
+    I have made some tech speaches as well as I try to help when needed.
+
+* My familiarity with agile methodology
+    I have finished a basic Scrum course and we are using agile methology at the moment in our
+    company.
+
+* Explain difficult situations around your current position / reaction
+    It is difficult to fix a bug which is live at the moment and you have to keep your calm and
+    think logically.
+
+* Tell me a time when you made use of data to make a decision.
+    Once I had to choose some instruments as default favorites. I went to prod environment and
+    made some queries about all the transactions. After I got the result the decision was easy.
+    There were some outliners which held 80% of the volume.
+
+* Tell me a time when you had to persuade a group of people.
+    Once I had to persuade my team to use a specific tool so I made a presentation about it.
+    I showed them how it work and how it helped my work. The outcome was that two people switched
+    to using this technology.
+
+
+Questions
+
+I saw a progress bar in the emails, one of 7 completed, what does it mean?
+how should I prepare for the next stages of the process?
+
+1000 employees
+
+Openening full stack - front end development
+
+
+front end task
+
+7 days to complete the test
+
+UK - deff
+Spain
+
+2 video calls
+
+technical interiew
+12-14
+
+build api
+
+culture interview
+12-14
+
+expeience conflicts
+
+5 sofia office
+real life problem
+
+engineers blog
+up to date

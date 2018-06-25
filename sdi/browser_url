@@ -1,0 +1,31 @@
+ 8. Tell me the whole process that happens after entering a URL in the browser to seeing the website rendered. Are servers hit directly?
+
+1. Type string into the address bar
+2. The browser checks the cache for a
+    DNS record to find the corresponding Ip address
+  The browser checks four caches:
+    a) the browser cache of the recently visited sites
+    b) the OS cache
+    c) the router cache
+    d) ISP(Internet Service Provider) cache ?
+    e) ISP's DNS server inits a DNS query (recursive) to find the ip
+        example with maps.google.com
+          "." root domain will nav to ".com" name server
+          ".com" will nav to "google.com" name server
+          "google.com" will find the ip and give it back
+3. The browser inits a tcp conn with the server
+    a) browsers use internet protocols TCP
+    b) the browser establishes TCP connection using TCP/IP three-way handshake
+        the client and the server exchange SYN and ACK msg
+          i) browser sends SYN packet to the server
+         ii) if server has open port it responds with SYN/ACK
+        iii) the browser acknowledges with ACK package
+4. The browser sends a request adding additional (cookies, connection, info)
+5. The server handles the request and sends back response
+  a) On the server is running web server (Apache, IIS)
+  b) The web server passes the request to a req handler (ASP.NET, Rails..)
+  c) The application code reads the request and returns response
+6. The server replies with a web page response and status code
+7. The browser renders the request
+
+DNS is a db that keeps url-ip as key-value pairs

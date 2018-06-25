@@ -1,0 +1,17 @@
+data modeling
+  http://searchdatamanagement.techtarget.com/definition/data-modeling
+
+flowchart elements
+  begin/end -> oval
+  internet  -> cloud
+  process   -> rectangle
+  decision  -> diamond
+  I/O       -> успоредник
+
+flowchart showing relationships
+use multiple models to view the same data
+approaches:
+  Conceptual: highest-level relationships
+  Enterprise: addresses the unique requirements of a specific business
+     Logical: illustrates the specific entities, attributes and relationships involved in a business function. Basis for physical DM.
+    Physical: represents app and db implementation of a logical

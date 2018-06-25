@@ -1,0 +1,26 @@
+when having a load balancer how do you handle storage
+
+On the browser
+  cookies can be used as storage
+    upsides
+      no db overhead
+    downsides
+      users can disable cookies
+      cookies can be cleaned
+      cookies have limited size
+      descripting the cookie overhead
+
+On the server
+  store sessions on the server as well as db
+    you have to redirect users to the same server each time (stickiness)
+      implement this by saving a key/ip address of the server or by rule on (username, location, ip)
+      this has to be done in the load balancer
+    downsides
+      lack of failover, all sessions are lost
+
+On a shared db that is replicated
+  Memcached
+
+the db has to be replicated on different machines
+  and they have to be connected to a load balancer as well
+
